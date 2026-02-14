@@ -7,6 +7,7 @@ This file documents the changes between different build versions of the `flic2li
 ## flic2lib-ios 1.5.0
 
 * Adds support for Flic Duo push and swipe gestures.
+* Adds support for VisionOS - without UIKit.
 
 ## flic2lib-ios 1.4.0
 
