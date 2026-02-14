@@ -1,10 +1,10 @@
-// swift-tools-version:5.3
+// swift-tools-version:5.9
 import PackageDescription
 
 let package = Package(
     name: "flic2lib",
     platforms: [
-        .macOS(.v11), .iOS(.v12), .tvOS(.v14)
+        .macOS(.v11), .iOS(.v12), .tvOS(.v14), .visionOS(.v1),
     ],
     products: [
         .library(
